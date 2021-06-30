@@ -37,11 +37,13 @@
   <a href="https://github.com/DenverCoder1/table2ascii"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=table2ascii&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
 </p> -->
 
+<!-- 
 <p align="left">
   <a href="https://github.com/DenverCoder1?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMiAyLjVBMi41IDIuNSAwIDAxNC41IDBoOC43NWEuNzUuNzUgMCAwMS43NS43NXYxMi41YS43NS43NSAwIDAxLS43NS43NWgtMi41YS43NS43NSAwIDExMC0xLjVoMS43NXYtMmgtOGExIDEgMCAwMC0uNzE0IDEuNy43NS43NSAwIDAxLTEuMDcyIDEuMDVBMi40OTUgMi40OTUgMCAwMTIgMTEuNXYtOXptMTAuNS0xVjloLThjLS4zNTYgMC0uNjk0LjA3NC0xIC4yMDhWMi41YTEgMSAwIDAxMS0xaDh6TTUgMTIuMjV2My4yNWEuMjUuMjUgMCAwMC40LjJsMS40NS0xLjA4N2EuMjUuMjUgMCAwMS4zIDBMOC42IDE1LjdhLjI1LjI1IDAgMDAuNC0uMnYtMy4yNWEuMjUuMjUgMCAwMC0uMjUtLjI1aC0zLjVhLjI1LjI1IDAgMDAtLjI1LjI1eiIgIGZpbGw9IiNmZmYiLz48L3N2Zz4="/></a>
-</p>
+</p> -->
 
-## 📕 Top projects I've contributed to
+<!--
+## 📕 Top projects I've contributed to -->
 
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -53,10 +55,12 @@
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ashutosh00710&repo=github-readme-activity-graph&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-activity-graph"></a>
   <a href="https://github.com/Hermanya/friendly-github"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Hermanya&repo=friendly-github&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="friendly-github"></a>
 </p> -->
-
+<!--
 <p align="left">
   <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIGhlaWdodD0iMTYiIHdpZHRoPSIxNiI+PHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNNSAzLjI1YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTAgMi4xMjJhMi4yNSAyLjI1IDAgMTAtMS41IDB2Ljg3OEEyLjI1IDIuMjUgMCAwMDUuNzUgOC41aDEuNXYyLjEyOGEyLjI1MSAyLjI1MSAwIDEwMS41IDBWOC41aDEuNWEyLjI1IDIuMjUgMCAwMDIuMjUtMi4yNXYtLjg3OGEyLjI1IDIuMjUgMCAxMC0xLjUgMHYuODc4YS43NS43NSAwIDAxLS43NS43NWgtNC41QS43NS43NSAwIDAxNSA2LjI1di0uODc4em0zLjc1IDcuMzc4YS43NS43NSAwIDExLTEuNSAwIC43NS43NSAwIDAxMS41IDB6bTMtOC43NWEuNzUuNzUgMCAxMDAtMS41Ljc1Ljc1IDAgMDAwIDEuNXoiIGZpbGw9IiNmZmYiPjwvcGF0aD48L3N2Zz4="/></a>
 </p>
+
+-->
 
 <!-- ## 🙋‍♂️ Connect with me -->
 
@@ -193,9 +197,10 @@
 [![Building a Discord Bot with Python - Bot Basics [Part 1]](https://freshidea.com/jonah/app/youtube-card/?id=arLTipYONl8)](https://www.youtube.com/watch?v=arLTipYONl8 "Building a Discord Bot with Python - Bot Basics [Part 1]")
 [![How to Bulk Rename Files Easily on Windows](https://freshidea.com/jonah/app/youtube-card/?id=DCP1elBAy_U)](https://www.youtube.com/watch?v=DCP1elBAy_U "How to Bulk Rename Files Easily on Windows")
 [![Getting the user's location with JavaScript (Geolocation API tutorial)](https://freshidea.com/jonah/app/youtube-card/?id=JdJ2VBbYYTQ)](https://www.youtube.com/watch?v=JdJ2VBbYYTQ "Getting the user's location with JavaScript (Geolocation API tutorial)")<!-- YOUTUBE:END -->
--->
 
+<!--
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/DevProTips?sub_confirmation=1)
+-->
 
 ## 📊 Github stats
 
@@ -204,7 +209,7 @@
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DenverCoder1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+ <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>-->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -225,4 +230,4 @@
 </details>
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jmota-dev Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jmota-dev&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
