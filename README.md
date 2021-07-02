@@ -9,7 +9,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F78831&center=true&width=620&lines=%F0%9F%93%95+%F0%9F%93%97+%F0%9F%93%98++%F0%9F%93%9A+Always+learning+new+things+%F0%9F%93%9A+%F0%9F%93%99+%F0%9F%93%94+%F0%9F%93%92;%F0%9F%91%BE%F0%9F%8E%AE+Unity+Developer+%F0%9F%8E%AE+%F0%9F%91%BE+;%F0%9F%91%93%F0%9F%93%B2+Augmented+%26+Virtual+Reality+Specialist+%F0%9F%93%B2%F0%9F%91%93;%F0%9F%8D%8F+iOS+Developer+%F0%9F%8D%8F"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?color=F78831&center=true&width=620&lines=%F0%9F%93%95+%F0%9F%93%97+%F0%9F%93%98++%F0%9F%93%9A+Always+learning+new+things+%F0%9F%93%9A+%F0%9F%93%99+%F0%9F%93%94+%F0%9F%93%92;%F0%9F%91%BE%F0%9F%8E%AE+Unity+Developer+%F0%9F%8E%AE+%F0%9F%91%BE+;%F0%9F%91%93%F0%9F%93%B2+Augmented+%26+Virtual+Reality+Specialist+%F0%9F%93%B2%F0%9F%91%93;%F0%9F%8D%8F+iOS+Developer+%F0%9F%8D%8F"></a>
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
@@ -111,7 +111,7 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="ARCore" src="https://img.shields.io/badge/-ARCore-E8E8E8?logo=ARCore&logoColor=black"></a>
+    <a href="#"><img alt="ARCore" src="https://img.shields.io/badge/-ARCore-E8E8E8?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA8FBMVEUAAABKFIx3H6F5H6F7H6JKFIxKFIxqIJx7H6J7H6JKFIx7H6JKFIxKFIx7H6JKFIxKFIxxH553H6F7H6JKFIxKFIx7H6J7H6JKFIx6PaGSQK9KFIxyHZ14H6H6+vqplL/6+vq4q8pZF5JKFIx7H6JKFIxuIJ11H6B7H6K6aMhKFIxXF5FjLJZqIJxtIJ1uHZxuIJ1xH55zHZ51H6B1Y6B3H6B7H6KHM6mJaauOUK2dh7iea7afVrepar2qWb23Zsa4Zse6aMi6mMq9lMzEwNHOyNnZuuDdu+Thvufo0e3r1+7w7/P17/b49vn6+vr///8G1b5tAAAAKnRSTlMACgoKChcbHBwfIzs/WFp4fX+AgYajo6arr7O8vr6/wMDCyOHl9fX19f5aBsceAAAAjUlEQVR42mIAA04xJR4GGGAB1CgPOgwFMBSGZxuZ7c7qbPP9H2envdkf9UtPtMltSnoMBarMINViZigNCFEGbG1nvDgd51QLmoWH/eZ2v98LdkB4uH6ej3dRpfyi/J+71QssOQ2uOzQ5X5bdetgCpkjq9wbDcU7e/go44mkjYtW5OVQDEy6F5IhnvXr8AG7PFraHxwJPAAAAAElFTkSuQmCC&logoColor=black"></a>
     <a href="#"><img alt="Cordova" src="https://img.shields.io/badge/-Cordova-E8E8E8?logo=apache-cordova&logoColor=black"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Smarty" src="https://img.shields.io/badge/-Smarty-CB2029?logo=smarty&logoColor=white"></a>
