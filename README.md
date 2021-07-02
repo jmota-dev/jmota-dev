@@ -127,10 +127,11 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
+    <a href="#"><img alt="Mariadb" src="https://img.shields.io/badge/Mariadb-%23316192.svg?logo=mariadb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="SQLServer" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Replit&logoColor=white"></a>
+    <a href="#"><img alt="SQLServer" src="https://img.shields.io/badge/SQLServer%20-%23FFFFFF.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAA51BMVEUAAADR2tq4GxvP2Ny3HBy3HBzP2NzP2Ny3HBzP2NzP2NzDmp3P2NzP2NzP2Ny3HBzP2Ny3HBzP2NzP2Ny3HBzP2NzP2NzP2Ny3HBy3HBy8YmO3HBy3HBy3HBzP2NzP2Ny3JifNztHP2Ny3HBzP2NzP2NzP2NzP2NzP2Ny3HBzP2Ny3HBzKwcXP2Ny3HBy/gYPP19vP2Ny3HBy3HBzP2Ny3HBy3HBzP2NzItbnP2Ny3HBzP2Ny3HBzP2Ny3HBzCmJvP2NzCl5q3HBzBkpXP2NzP2Ny3HBy3HBy3HBzP2NzP2Ny3HBy4PT5h8wc7AAAATXRSTlMAAQQGCxETFh8mKSosLjE0NTg/QEJDRUZHTU9QUlNYWVtbXF5fYWJjZGVsbW9vcHN0dHh5enx9hYiIiYmKjZCVlZaYm5yfpqetuLnGzWY/p9EAAAB0SURBVHjaY4AAZgYEYDc3FEPiSjlaGDAgAWVjGzMjSRYYl8PUW89Y2koEymXysHOS1RTU5odwZdzdFPQlWGFqfZx1dOVgOrntFfk8hQWgPDYTa1stcRdVKJeLS17dy5yHE6ZYxcFSQ80V4QpGIVElXgZsAADxdgvr0VzBBQAAAABJRU5ErkJggg==&logoColor=white"></a>
 </p>
 
 ### 💻 Software and tools
